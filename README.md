@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/colin-brandt-it/">Colin Brandt</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Outside of work, I'm constantly sharpening my skills through a home lab running Active Directory and hands-on access to enterprise-grade tools through Josh Madakor's Cyber Range — including Microsoft Sentinel SIEM, Microsoft Defender for Endpoint, and Tenable Nessus. Feel free to check out my projects and see the work I've put into enhancing security operations and processes!
 
 
 ## ⚠️ Vulnerability Management Projects
